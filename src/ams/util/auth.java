@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class auth{
-    private static final String CSV_FILE_PATH = "D:\\users.csv";
+    private static final String CSV_FILE_PATH = "src/resources/users.csv";
     private static final String ADMIN_USERNAME = "admin";
     private static final String ADMIN_PASSWORD = "123";
 
