@@ -1,7 +1,5 @@
 # 🏢 Attendance Management System
 
-## 📝 Project Description
-
 Welcome to the Attendance Management System! This Java-based application streamlines employee attendance tracking, offering an intuitive interface for both employees and administrators. It simplifies daily check-ins and provides comprehensive reporting tools.
 
 ### 🌟 Key Features
