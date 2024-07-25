@@ -12,7 +12,7 @@ import java.util.StringJoiner;
 import ams.util.rw;
 
 public class attendance {
-    private static final String filename = "D:\\attendance.csv";
+    private static final String filename = "src/resources/attendance.csv";
     public static void checkIn(String username) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter check-in date (yyyy-MM-dd):");
