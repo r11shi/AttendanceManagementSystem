@@ -8,7 +8,7 @@ import java.util.Scanner;
 import ams.util.rw;
 
 public class UserDB {
-    private static final String filename = "D:\\users.csv";
+    private static final String filename = "src/resources/users.csv";
 
     public static void createUser() {
         Scanner scanner = new Scanner(System.in);
